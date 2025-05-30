@@ -36,23 +36,23 @@
  *****************************************************************************/
 
 import * as navigation from './components/navigation.js';
-navigation.initNavbar();
-navigation.activeNav();
-navigation.dropdownToggle();
-navigation.navChange();
+// navigation.initNavbar();
+// navigation.activeNav();
+// navigation.dropdownToggle();
+// navigation.navChange();
 navigation.pagination();
 
-import * as treemenu from './components/treemenu.js'
-treemenu.initializeTreeMenu();
+// import * as treemenu from './components/treemenu.js'
+// treemenu.initializeTreeMenu();
 
-import * as draggable from './components/draggable.js';
-draggable.draggable();
+// import * as draggable from './components/draggable.js';
+// draggable.draggable();
 
-import * as dropImage from './components/dropImage.js';
-dropImage.dropImage();
+// import * as dropImage from './components/dropImage.js';
+// dropImage.dropImage();
 
-import * as modals from './components/modals.js';
-modals.initModal();
+// import * as modals from './components/modals.js';
+// modals.initModal();
 
 import * as tabs from './components/tabs.js';
 tabs.tabs();
@@ -63,9 +63,9 @@ tabs.tabsVertical();
  *****************************************************************************/
 
 import * as utils from './utils/utils.js';
-utils.deleteButtonInForm();
-utils.validatePassword();
-utils.jumpNext();
+// utils.deleteButtonInForm();
+// utils.validatePassword();
+// utils.jumpNext();
 utils.copyShareUrl();
 
 /******************************************************************************
@@ -76,8 +76,8 @@ import * as icons from './system/icons.js';
 icons.injectVerneticIcons();
 
 import * as animations from './system/animations.js';
-animations.newObserveElements();
-animations.parallax();
+// animations.newObserveElements();
+// animations.parallax();
 
 // import * as typewriter from './system/typewriter.js';
 // typewriter.initTypewriter();
