@@ -31,7 +31,7 @@ Add Vernetic to your page with a few simple tags.
 ### CSS
 
 ```html
-<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tompapatolis/vernetic@v7.0.7/dist/css/vernetic.css">
+<link rel="stylesheet" href="https://cdn.jsdelivr.net/gh/tomgineer/vernetic@v7.0.7/dist/css/vernetic.css">
 ```
 
 ### JavaScript
@@ -39,7 +39,7 @@ Add Vernetic to your page with a few simple tags.
 Also in your `<head>` (with `defer`, because performance is cool):
 
 ```html
-<script src="https://cdn.jsdelivr.net/gh/tompapatolis/vernetic@v7.0.7/dist/js/vernetic.js" defer></script>
+<script src="https://cdn.jsdelivr.net/gh/tomgineer/vernetic@v7.0.7/dist/js/vernetic.js" defer></script>
 ```
 
 ### Icon Sprite
