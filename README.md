@@ -16,7 +16,7 @@ If you've ever thought _"I wish I had a clean, modern, no-nonsense CSS framework
 Clone it. Fork it. Star it. Brag about it.
 
 **Repo:**  
-[https://github.com/tompapatolis/vernetic](https://github.com/tompapatolis/vernetic)
+[https://github.com/tomgineer/vernetic](https://github.com/tomgineer/vernetic)
 
 ```bash
 git clone https://github.com/tompapatolis/vernetic
